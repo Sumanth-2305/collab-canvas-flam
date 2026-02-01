@@ -7,7 +7,10 @@ This project is a **real-time collaborative drawing application** where multiple
 
 The application focuses on **Canvas API mastery**, **WebSocket-based real-time synchronization**, and **server-authoritative state management**, rather than UI frameworks or third-party drawing libraries.
 
----
+## 🔗 Live Demo
+https://canvas-drawing-4v5a.onrender.com  ---deployed on render
+
+
 
 ## ✨ Features Implemented
 
